@@ -1,0 +1,18 @@
+D:\TestphaseI\StudentGradeBook\StudentGradeBook\bin\Debug\StudentGradeBook.exe.config
+D:\TestphaseI\StudentGradeBook\StudentGradeBook\bin\Debug\StudentGradeBook.exe
+D:\TestphaseI\StudentGradeBook\StudentGradeBook\bin\Debug\StudentGradeBook.pdb
+D:\TestphaseI\StudentGradeBook\StudentGradeBook\obj\Debug\StudentGradeBook.csprojResolveAssemblyReference.cache
+D:\TestphaseI\StudentGradeBook\StudentGradeBook\obj\Debug\StudentGradeBook.Form1.resources
+D:\TestphaseI\StudentGradeBook\StudentGradeBook\obj\Debug\StudentGradeBook.Properties.Resources.resources
+D:\TestphaseI\StudentGradeBook\StudentGradeBook\obj\Debug\StudentGradeBook.csproj.GenerateResource.Cache
+D:\TestphaseI\StudentGradeBook\StudentGradeBook\obj\Debug\StudentGradeBook.exe
+D:\TestphaseI\StudentGradeBook\StudentGradeBook\obj\Debug\StudentGradeBook.pdb
+D:\TestphaseI\StudentGradeBook\StudentGradeBook\obj\Debug\StudentGradeBook.GradeBook.resources
+D:\VU Project\TestphaseI\StudentGradeBook\StudentGradeBook\obj\Debug\StudentGradeBook.csprojAssemblyReference.cache
+D:\VU Project\TestphaseI\StudentGradeBook\StudentGradeBook\obj\Debug\StudentGradeBook.Form1.resources
+D:\VU Project\TestphaseI\StudentGradeBook\StudentGradeBook\obj\Debug\StudentGradeBook.GradeBook.resources
+D:\VU Project\TestphaseI\StudentGradeBook\StudentGradeBook\obj\Debug\StudentGradeBook.Properties.Resources.resources
+D:\VU Project\TestphaseI\StudentGradeBook\StudentGradeBook\obj\Debug\StudentGradeBook.csproj.GenerateResource.cache
+D:\VU Project\TestphaseI\StudentGradeBook\StudentGradeBook\obj\Debug\StudentGradeBook.csproj.CoreCompileInputs.cache
+D:\VU Project\TestphaseI\StudentGradeBook\StudentGradeBook\obj\Debug\StudentGradeBook.exe
+D:\VU Project\TestphaseI\StudentGradeBook\StudentGradeBook\obj\Debug\StudentGradeBook.pdb
